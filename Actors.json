@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"TheseusBattler","characterIndex":0,"characterName":"TheseusWalk","classId":1,"equips":[7,12,13,14,15],"faceIndex":0,"faceName":"Theseus","traits":[],"initialLevel":99,"maxLevel":99,"name":"Theseus","nickname":"","note":"","profile":"Fabled hero of mythological legend."},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
