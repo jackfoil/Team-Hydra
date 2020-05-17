@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"A wooden shield. Might block a bit of damage. +2 DEF.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":81,"name":"Wooden Shield","note":"-Crappy starter shield.","params":[0,0,0,2,0,0,0,0],"price":80},
+{"id":2,"atypeId":3,"description":"Not much more than a hat, really. +1 DEF.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":131,"name":"Cloth Helmet","note":"-Crappy starter helmet.","params":[0,0,0,1,0,0,0,0],"price":50},
+{"id":3,"atypeId":3,"description":"Don't expect it to block anything major. +2 DEF.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Cloth Armor","note":"","params":[0,0,0,2,0,0,0,0],"price":75},
+{"id":4,"atypeId":1,"description":"An old ring. It could use some polishing. +1 Luck.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Dull Ring","note":"","params":[0,0,0,0,0,0,0,1],"price":30},
+{"id":5,"atypeId":1,"description":"A ring said to enchant the wearer. +3 Luck.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Polished Ring","note":"","params":[0,0,0,0,0,0,0,3],"price":80},
+{"id":6,"atypeId":5,"description":"A shield made of lightweight bronze. Cheap, but sturdy. +4 DEF, -5% Evasion.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":-0.05}],"iconIndex":81,"name":"Bronze Shield","note":"","params":[0,0,0,4,0,0,0,0],"price":200},
+{"id":7,"atypeId":2,"description":"A necklace designed to channel one's mana more efficiently. +50 Max MP.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":146,"name":"Mana Pendant","note":"","params":[0,50,0,0,0,0,0,0],"price":250},
+{"id":8,"atypeId":3,"description":"Basic armor. Provides adequate defense. +4 DEF.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Leather Armor","note":"","params":[0,0,0,4,0,0,0,0],"price":250},
+{"id":9,"atypeId":3,"description":"Basic armor. Keeps your head on. +2 DEF.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":131,"name":"Leather Helmet","note":"","params":[0,0,0,2,0,0,0,0],"price":200},
+{"id":10,"atypeId":2,"description":"An alchemist's cloak charged with elemental energy. +4 DEF. +6 WIS. Also resists Earth-based magic.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":6,"value":0.5}],"iconIndex":139,"name":"Earthen Cloak","note":"<Disassemble Pool>\nx5 item 34\nx1 armor 11\n</Disassemble Pool>\n<Synthesis Ingredients>\narmor 11: 1\nitem 34: 10\n</Synthesis Ingredients>","params":[0,0,0,4,0,6,0,0],"price":350},
+{"id":11,"atypeId":2,"description":"A cloak designed for a novice alchemist. +2 DEF. +6 WIS. +2% Evasion.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0.02}],"iconIndex":139,"name":"Alchemist's Cloak","note":"","params":[0,0,0,2,0,6,0,0],"price":300},
+{"id":12,"atypeId":5,"description":"A basic iron shield. +7 DEF.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":81,"name":"Iron Shield","note":"","params":[0,0,0,7,0,0,0,0],"price":80},
+{"id":13,"atypeId":4,"description":"An iron helmet. +3 DEF.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":132,"name":"Iron Helmet","note":"","params":[0,0,0,3,0,0,0,0],"price":50},
+{"id":14,"atypeId":4,"description":"Basic iron armor. +10 DEF.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Iron Armor","note":"","params":[0,0,0,10,0,0,0,0],"price":0},
+{"id":15,"atypeId":2,"description":"A ring given to the slayer of the Bull of Marathon. +5 LUCK.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Ring of Marathon","note":"","params":[0,0,0,0,0,0,0,5],"price":0},
+{"id":16,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":17,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":18,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":19,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":20,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]

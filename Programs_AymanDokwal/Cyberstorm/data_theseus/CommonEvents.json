@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"list":[{"code":111,"indent":0,"parameters":[0,1,0]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["Exit the Labyrinth? "]},{"code":102,"indent":1,"parameters":[["Yes","No"],1,0,2,0]},{"code":402,"indent":1,"parameters":[0,"Yes"]},{"code":250,"indent":2,"parameters":[{"name":"Run","volume":90,"pitch":60,"pan":0}]},{"code":201,"indent":2,"parameters":[0,1,16,11,2,1]},{"code":0,"indent":2,"parameters":[]},{"code":402,"indent":1,"parameters":[1,"No"]},{"code":0,"indent":2,"parameters":[]},{"code":404,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["You can't return from the Labyrinth if you aren't in the Labyrinth!"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Return to Crete","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
