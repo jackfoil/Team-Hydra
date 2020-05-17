@@ -1,0 +1,19 @@
+
+					Gbq shg na bjqv wpy Pjyymu Xolmfq Jrf iz gbq lhae zrrf br bbq Doqaw
+					Ochrl ua rvy rbod ahdyz
+				
+				
+Gbq shg na bjqv wpy Pjyymu Xolmfq Jrf iz gbq lhae zrrf br bbq Doqaw Ochrl ua rvy rbod ahdyz
+
+orc: Big Walker
+wood elf: Walk Brass
+Dark Elf Blood: Prime Gestalt
+High Elf Blood: Brass God
+
+Numidium
+
+$ python Vigenere.py -d "Numidium"
+Gbq shg na bjqv wpy Pjyymu Xolmfq Jrf iz gbq lhae zrrf br bbq Doqaw Ochrl ua rvy rbod ahdyz
+^Z
+Message:Gbq shg na bjqv wpy Pjyymu Xolmfq Jrf iz gbq lhae zrrf br bbq Doqaw Ochrl ua rvy rbod ahdyz
+Plaintext:The key to open the Dwemer Puzzle Box on the desk next to the Quest Giver is one four seven
