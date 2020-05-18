@@ -1,0 +1,39 @@
+Oh no! The Wehrmacht is back! They are now equipped with modern technology, but they are still using their enigma machines.
+There are encrypted messages that contain information we need to know, for reasons.
+
+A python3 template to get you started: template.py
+There is also a test file for you to try out. When you test it out it should look like the following.
+
+$ python template.py < test
+IJGHBZMBDUEMSGFSDCUOYZOXQALKEGJJFFHOTXUKJBKCJFVFGFYJDXJRVZJTDSELJ
+
+$ python template.py < test > output
+
+$ python template.py < output
+HELLOXXISXAXTESTXFILEXFORXYOUXTOXSEEXHOWXTHEXPYTHONXPROGRAMXWORKS
+
+
+You will need to install the enigma package
+https://py-enigma.readthedocs.io/en/latest/overview.html#installation
+
+Important Note: there is a possible bug with machine.set_display(), set the ring setting instead if needed.
+
+You may also find these videos helpful.
+https://www.youtube.com/watch?v=G2_Q9FoD-oQ, https://www.youtube.com/watch?v=V4V2bpZlqx8, https://www.youtube.com/watch?v=d2NWPG2gB_A, https://www.youtube.com/watch?v=kj_7Jc1mS9k
+
+
+Each ciphertext has a passphrase that will get you points, and ciphertext are to be solved in order numerically.
+Tell Jonathon Beauregard the passphrases to get points.
+
+
+Now, lets get started with the challenge:
+You need to first decrypt ciphertext_1.
+The ring settings are: A A A
+The plugboard setting are: AB CD EF GH IJ KL MN OP QR ST
+We know that rotors I, II, and III are used, but we don't know what order.
+The reflector used is B
+
+
+Note: There are rules that govern the configuration of an enigma machine
+For example: a rotor cannot be used more than once.
+There are more rules than this one. When you understand how the enigma machine works, they should become evident.
